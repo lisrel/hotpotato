@@ -1,0 +1,6 @@
+/home/tino/RiderProjects/HotPotato/HotPotato/bin/Debug/HotPotato.exe
+/home/tino/RiderProjects/HotPotato/HotPotato/bin/Debug/HotPotato.pdb
+/home/tino/RiderProjects/HotPotato/HotPotato/obj/Debug/HotPotato.csproj.AssemblyReference.cache
+/home/tino/RiderProjects/HotPotato/HotPotato/obj/Debug/HotPotato.csproj.CoreCompileInputs.cache
+/home/tino/RiderProjects/HotPotato/HotPotato/obj/Debug/HotPotato.exe
+/home/tino/RiderProjects/HotPotato/HotPotato/obj/Debug/HotPotato.pdb
