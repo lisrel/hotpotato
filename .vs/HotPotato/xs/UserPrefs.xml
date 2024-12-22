@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{552625CE-073D-4937-A607-01C9E0D50DFD}|Default">
+  <MonoDevelop.Ide.ItemProperties.HotPotato PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HotPotato/Program.cs">
+    <Files>
+      <File FileName="HotPotato/Program.cs" Line="48" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HotPotato" expanded="True">
+            <Node name="HotPotato" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
